@@ -1,2 +1,2 @@
 # Prodigy Infotech
-task-5 of interships
+task-5 Weather App Web Application
